@@ -13,7 +13,7 @@
 
 ## `/recipes/:recipeId`
 
-![](https://i.stack.imgur.com/4vl6Q.png)
+![](https://i.stack.imgur.com/nXL8u.png)
 
 ### Postman
 
