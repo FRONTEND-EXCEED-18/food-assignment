@@ -21,5 +21,8 @@ Download: ​​https://drive.google.com/file/d/155BDv5mS58odxkje1i7d5SuxNyld6Gg
 
 ดาวน์โหลดแล้ว import ตัว json ลงใน Postman จะได้ collection Food API
 
+`https://www.themealdb.com/api/json/v1/1/search.php?s=` ใช้สำหรับค้นหาอาหาร
+`https://www.themealdb.com/api/json/v1/1/lookup.php?i=52772`ใช้ดู full detail ของอาหาร id ต่างๆ
+
 ### การส่งงาน
 ส่ง url ของ repository มาไว้ที่ text channel ชื่อ `#frontend-assignment` พร้อมบอกเลขกลุ่มใน **Discord Exceed18** ได้เลยครับ
