@@ -8,12 +8,12 @@
 ### Example UI
 ## `/recipes`
 
-![](https://i.stack.imgur.com/4vl6Q.png)
+![](https://media.discordapp.net/attachments/925746686494650369/939905294199296080/4vl6Q.png?width=716&height=516)
 
 
 ## `/recipes/:recipeId`
 
-![](https://i.stack.imgur.com/nXL8u.png)
+![](https://media.discordapp.net/attachments/925746686494650369/939905293922476073/nXL8u.png?width=716&height=515)
 
 ### Postman
 
